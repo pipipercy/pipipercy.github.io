@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to My castle -v-
 
-You can use the [editor on GitHub](https://github.com/pipipercy/pipipercy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is my first blog on github, you can also help me to maintain improve it if you like it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Note: the words in this text is public no matter whether you set it as private or public
+
+如果存在 index.html，则将使用它而不是 index.md。 如果没有 index.html 或 index.md，将使用 README.md。
 
 ### Markdown
 
